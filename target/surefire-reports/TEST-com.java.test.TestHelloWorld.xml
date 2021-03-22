@@ -25,7 +25,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\soundharyalaxmi\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf10477003870094344087.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\soundharyalaxmi\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf10560662402305917128.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-15.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-15.0.2\bin;C:\Users\soundharyalaxmi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\soundharyalaxmi\AppData\Local\Programs\Python\Python38\;C:\Users\soundharyalaxmi\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="jdk.debug" value="release"/>
@@ -41,7 +41,7 @@
     <property name="java.class.path" value="C:\Users\soundharyalaxmi\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="15"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean package"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-15.0.2"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
